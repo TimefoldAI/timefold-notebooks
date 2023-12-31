@@ -1,0 +1,16 @@
+= Timefold Jupyter notebooks
+
+_Planning optimization made easy._ +
+https://timefold.ai[timefold.ai]
+
+== Overview of all notebooks
+
+|===
+|Java |Kotlin
+
+a|None yet
+
+a|* <<kotlin/school-timetabling.ipynb, School timetabling>>
+
+|===
+
