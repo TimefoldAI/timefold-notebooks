@@ -14,3 +14,10 @@ a|* <<kotlin/school-timetabling.ipynb, School timetabling>>
 
 |===
 
+== Getting started
+
+* Open this repository in IntelliJ IDEA.
+* Install the IntelliJ plugin *Kotlin Notebook* and restart.
+* Open menu _File_ > _Project Structure_ > _Project Settings_> _Project_
+** Set _SDK_ to at least Java 17.
+** Set _Language level_ to at least Java 17.
