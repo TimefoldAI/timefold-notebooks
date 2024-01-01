@@ -10,7 +10,7 @@ https://timefold.ai[timefold.ai]
 
 a|None yet
 
-a|* <<kotlin/school-timetabling.ipynb, School timetabling>>
+a|* link:kotlin/school-timetabling.ipynb[School timetabling]
 
 |===
 
