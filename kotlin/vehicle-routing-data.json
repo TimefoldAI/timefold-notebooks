@@ -1,0 +1,14 @@
+{
+  "vehicles": [
+    {
+      "name": "Vehicle 1",
+      "homeLocation": { "latitude": 50.8427501, "longitude": 4.3515499 },
+      "capacity": 100
+    }
+  ],
+  "visits" : [
+    {
+      "name": "Anthisnes", "location": { "latitude": 50.4812987, "longitude": 5.5198048 }, "demand": 5
+    }
+  ]
+}
