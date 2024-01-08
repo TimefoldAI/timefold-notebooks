@@ -1,39 +1,64 @@
 {
+  "name": "belgium-n50-k10",
   "vehicles": [
-    {
-      "name": "Vehicle A",
-      "homeLocation": [50.8427501, 4.3515499],
-      "capacity": 100
-    },
-    {
-      "name": "Vehicle B",
-      "homeLocation": [50.8427501, 4.3515499],
-      "capacity": 100
-    },
-    {
-      "name": "Vehicle C",
-      "homeLocation": [50.8427501, 4.3515499],
-      "capacity": 100
-    },
-    {
-      "name": "Vehicle D",
-      "homeLocation": [50.8427501, 4.3515499],
-      "capacity": 100
-    },
-    {
-      "name": "Vehicle E",
-      "homeLocation": [50.8427501, 4.3515499],
-      "capacity": 100
-    },
-    {
-      "name": "Vehicle F",
-      "homeLocation": [50.8427501, 4.3515499],
-      "capacity": 100
-    }
-  ],
-  "visits" : [
-    {
-      "name": "Anthisnes", "location": [50.4812987, 5.5198048], "load": 5
-    }
-  ]
+    {"name": "Vehicle A", "homeLocation": [50.8427501, 4.3515499], "capacity": 100},
+    {"name": "Vehicle B", "homeLocation": [50.8427501, 4.3515499], "capacity": 100},
+    {"name": "Vehicle C", "homeLocation": [50.8427501, 4.3515499], "capacity": 100},
+    {"name": "Vehicle D", "homeLocation": [50.8427501, 4.3515499], "capacity": 100},
+    {"name": "Vehicle E", "homeLocation": [50.8427501, 4.3515499], "capacity": 100},
+    {"name": "Vehicle F", "homeLocation": [50.8427501, 4.3515499], "capacity": 100},
+    {"name": "Vehicle G", "homeLocation": [50.8427501, 4.3515499], "capacity": 100},
+    {"name": "Vehicle H", "homeLocation": [50.8427501, 4.3515499], "capacity": 100},
+    {"name": "Vehicle I", "homeLocation": [50.8427501, 4.3515499], "capacity": 100},
+    {"name": "Vehicle J", "homeLocation": [50.8427501, 4.3515499], "capacity": 100}],
+  "visits": [
+    {"name": "ANTHISNES", "location": [5.5198048, 50.4812987], "load": 15},
+    {"name": "AVE-ET-AUFFE", "location": [5.1429583, 50.1085676], "load": 16},
+    {"name": "BAVIKHOVE", "location": [3.3113744, 50.8753581], "load": 31},
+    {"name": "BERSILLIES-L'ABBAYE", "location": [4.1523037, 50.2624949], "load": 14},
+    {"name": "BLERET", "location": [5.2859129, 50.688785], "load": 33},
+    {"name": "BOURLERS", "location": [4.3409814, 50.025208], "load": 7},
+    {"name": "BULSKAMP", "location": [2.6501345, 51.0432467], "load": 9},
+    {"name": "CHIEVRES", "location": [3.7853169, 50.5661351], "load": 17},
+    {"name": "DAMME", "location": [3.3400765, 51.2365829], "load": 33},
+    {"name": "DONSTIENNES", "location": [4.3106966, 50.2849958], "load": 26},
+    {"name": "ELVERDINGE", "location": [2.8162074, 50.8848669], "load": 18},
+    {"name": "EVELETTE", "location": [5.173705, 50.411922], "load": 10},
+    {"name": "FONTAINE-L'EVEQUE", "location": [4.3249526, 50.4100558], "load": 32},
+    {"name": "GELINDEN", "location": [5.2628934, 50.7670559], "load": 26},
+    {"name": "GONDREGNIES", "location": [3.9115699, 50.6271045], "load": 14},
+    {"name": "GUIGNIES", "location": [3.3727285, 50.5499808], "load": 32},
+    {"name": "HAREN_BRUSSEL", "location": [4.4182942, 50.8919578], "load": 33},
+    {"name": "HEPPIGNIES", "location": [4.4932598, 50.4814121], "load": 30},
+    {"name": "HOFSTADE_BT.", "location": [4.492735, 50.9912912], "load": 25},
+    {"name": "HUMBEEK", "location": [4.3834362, 50.9667658], "load": 18},
+    {"name": "JURBISE", "location": [3.9017078, 50.5208191], "load": 26},
+    {"name": "KOMEN", "location": [3.007366, 50.77614], "load": 2},
+    {"name": "LANDEGEM", "location": [3.573045, 51.0566021], "load": 25},
+    {"name": "LES_BONS_VILLERS", "location": [4.4476802, 50.5427462], "load": 10},
+    {"name": "LISSEWEGE", "location": [3.1994146, 51.2948381], "load": 3},
+    {"name": "MAFFLE", "location": [3.8018102, 50.6200815], "load": 28},
+    {"name": "MAULDE", "location": [3.5470846, 50.6165736], "load": 9},
+    {"name": "MERKSPLAS", "location": [4.861625, 51.361787], "load": 21},
+    {"name": "MONT_NAM.", "location": [4.9014191, 50.3534706], "load": 7},
+    {"name": "NAAST", "location": [4.0964803, 50.5504316], "load": 24},
+    {"name": "NIEUWKERKEN-WAAS", "location": [4.1787815, 51.1936164], "load": 1},
+    {"name": "OLLIGNIES", "location": [3.8574228, 50.6876172], "load": 5},
+    {"name": "ORET", "location": [4.6155651, 50.2998711], "load": 19},
+    {"name": "PEPINGEN", "location": [4.1360863, 50.7360287], "load": 4},
+    {"name": "POUPEHAN", "location": [5.0029, 49.8122243], "load": 9},
+    {"name": "RENINGE", "location": [2.7891722, 50.9477884], "load": 7},
+    {"name": "ROSMEER", "location": [5.5750235, 50.8460854], "load": 16},
+    {"name": "SAINT-MARTIN", "location": [4.6473657, 50.5009515], "load": 27},
+    {"name": "SELANGE", "location": [5.8560275, 49.6096472], "load": 15},
+    {"name": "SINT-KWINTENS-LENNIK", "location": [4.1538281, 50.8068661], "load": 17},
+    {"name": "SOMZEE", "location": [4.4831638, 50.2950667], "load": 20},
+    {"name": "TAILLES", "location": [5.7437507, 50.2273877], "load": 27},
+    {"name": "TILFF", "location": [5.5844061, 50.5695196], "load": 33},
+    {"name": "VAUX-LEZ-ROSIERES", "location": [5.5659053, 49.9102794], "load": 18},
+    {"name": "VILLERS-L'EVEQUE", "location": [5.4399729, 50.7044254], "load": 31},
+    {"name": "VOSSEM", "location": [4.557627, 50.8346073], "load": 19},
+    {"name": "WARNANT-DREYE", "location": [5.2276287, 50.5951652], "load": 24},
+    {"name": "WETTEREN", "location": [3.8693544, 51.0005742], "load": 16},
+    {"name": "XHENDELESSE", "location": [5.7830075, 50.6061517], "load": 32}]
 }
