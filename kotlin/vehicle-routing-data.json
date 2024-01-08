@@ -1,14 +1,39 @@
 {
   "vehicles": [
     {
-      "name": "Vehicle 1",
-      "homeLocation": { "latitude": 50.8427501, "longitude": 4.3515499 },
+      "name": "Vehicle A",
+      "homeLocation": [50.8427501, 4.3515499],
+      "capacity": 100
+    },
+    {
+      "name": "Vehicle B",
+      "homeLocation": [50.8427501, 4.3515499],
+      "capacity": 100
+    },
+    {
+      "name": "Vehicle C",
+      "homeLocation": [50.8427501, 4.3515499],
+      "capacity": 100
+    },
+    {
+      "name": "Vehicle D",
+      "homeLocation": [50.8427501, 4.3515499],
+      "capacity": 100
+    },
+    {
+      "name": "Vehicle E",
+      "homeLocation": [50.8427501, 4.3515499],
+      "capacity": 100
+    },
+    {
+      "name": "Vehicle F",
+      "homeLocation": [50.8427501, 4.3515499],
       "capacity": 100
     }
   ],
   "visits" : [
     {
-      "name": "Anthisnes", "location": { "latitude": 50.4812987, "longitude": 5.5198048 }, "demand": 5
+      "name": "Anthisnes", "location": [50.4812987, 5.5198048], "load": 5
     }
   ]
 }
