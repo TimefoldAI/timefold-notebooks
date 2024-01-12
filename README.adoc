@@ -11,6 +11,7 @@ https://timefold.ai[timefold.ai]
 a|None yet
 
 a|* link:kotlin/school-timetabling.ipynb[School timetabling]
+* link:kotlin/vehicle-routing.ipynb[Vehicle routing]
 
 a|None yet
 
